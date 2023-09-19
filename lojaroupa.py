@@ -1,4 +1,4 @@
-mport os
+import os
 class Produto:
     def _init_(self, nome, preco):
         self.nome = nome
